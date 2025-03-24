@@ -120,7 +120,7 @@ Sou Natielly Luisa, tenho 24 anos e atualmente moro em São Paulo. Estou cursand
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="180"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=natiellyluisa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -128,7 +128,7 @@ Sou Natielly Luisa, tenho 24 anos e atualmente moro em São Paulo. Estou cursand
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natiellyluisa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
