@@ -32,8 +32,8 @@ Sou Natielly Luisa, tenho 24 anos e atualmente moro em São Paulo. Estou cursand
 ### <h2> 📲 Contatos </h2>
 
 <div> 
-  <a href="https://instagram.com/natiellyluisa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "natieliluisa2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/natiellyluizaa?igsh=MW1kamNzcWN3M2NlZA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/mu/mp/164/#tl/priority/%5Esmartlabel_personal"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natieli-luisa-097026201 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/natiellyluisa?tab=repositories&sort=stargazers">
   <img 
